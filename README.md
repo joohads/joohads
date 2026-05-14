@@ -73,6 +73,12 @@ Olá! Eu sou a Jooh 💕
 
 ---
 
+## 🧪 Projetos
+
+📁 Exemplos de relatórios analíticos, SQL, HQL, Java, JasperReports e dashboards foram movidos para o repositório [analytic-reports-by-jooh](https://github.com/joohads/analytic-reports-by-jooh).
+
+---
+
 ## 💞️ Colaboração
 
 Sempre aberta para:
@@ -150,6 +156,12 @@ Hi there! I'm Jooh 💕
 ✨ Automation & Process Optimization  
 ✨ Data Visualization  
 ✨ Technology & Innovation
+
+---
+
+## 🧪 Projects
+
+📁 Analytical reports, SQL, HQL, Java, JasperReports and dashboard examples were moved to the [analytic-reports-by-jooh](https://github.com/joohads/analytic-reports-by-jooh) repository.
 
 ---
 
